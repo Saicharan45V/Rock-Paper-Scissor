@@ -1,0 +1,100 @@
+body {
+    padding: 35px;
+    margin: 65px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+#q {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    color: hotpink;
+}
+
+#p {
+    padding: 10px;
+    font-size: 30px;
+    font-family: fantasy;
+    border-radius: 15px;
+}
+
+.game {
+    padding: 3.5rem;
+    border-radius: 20px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(10px);
+    max-width: 400px;
+    width: 100%;
+    background-color: aliceblue;
+}
+
+#_h {
+    color: black;
+    text-transform: uppercase;
+    font-family: monospace;
+    font-size: 55px;
+}
+
+#rock {
+    font-size: 3rem;
+    width: 90px;
+    height: 80px;
+    border: 3px solid aliceblue;
+    border-radius: 15px;
+    background-color: white;
+
+}
+
+#paper {
+    font-size: 3rem;
+    width: 90px;
+    height: 80px;
+    border: 3px solid aliceblue;
+    border-radius: 15px;
+    background-color: white;
+
+}
+
+#scissor {
+    font-size: 3rem;
+    width: 90px;
+    height: 80px;
+    border: 3px solid aliceblue;
+    border-radius: 15px;
+    background-color: white;
+
+}
+
+
+
+#rock:hover {
+    background-color: rgb(13, 255, 0);
+}
+
+#paper:hover {
+    background-color: rgb(13, 255, 0);
+}
+
+#scissor:hover {
+    background-color: rgb(13, 255, 0);
+}
+
+#score {
+    padding: 10px;
+    background-color: #fb9506;
+    border-radius: 15px;
+    color: black;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#player-choice {
+    font-size: 25px;
+}
+
+#computer-choice {
+    font-size: 25px;
+}
+
+#outcome {
+    font-size: 25px;
+}
