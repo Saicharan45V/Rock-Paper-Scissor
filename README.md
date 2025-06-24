@@ -1,5 +1,7 @@
 # 🎮 Rock Paper Scissors Game
 [![Live Demo](https://img.shields.io/badge/Demo-Live%20Game-green)](https://saicharan45v.github.io/Rock-Paper-Scissor/)
+[![GitHub](https://img.shields.io/badge/View%20on-GitHub-blue)](https://github.com/Saicharan45V/Rock-Paper-Scissor)
+
 
 A browser-based implementation of the classic game built with **HTML5, CSS3, and Vanilla JavaScript**.
 
