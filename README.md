@@ -1,19 +1,3 @@
-# 🎮 Rock, Paper, Scissors Game
-
-A browser-based implementation of the classic game built with **HTML5, CSS3, and JavaScript**.  
-Try it live: [Demo Link](https://saicharan45v.github.io/Rock-Paper-Scissor/)
-
-  
-
-## Technologies Used
-- **Frontend**: HTML5, CSS3 (Flexbox/Grid), Vanilla JavaScript  
-- **Version Control**: Git, GitHub  
-
-## How to Run Locally
-1. Clone the repo:
-   ```bash
-   git clone [https://github.com/your-username/rock-paper-scissors.git](https://saicharan45v.github.io/Rock-Paper-Scissor/)
-
 # 🎮 Rock Paper Scissors Game
 ![Live Demo](https://saicharan45v.github.io/Rock-Paper-Scissor/)
 
