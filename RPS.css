@@ -1,6 +1,6 @@
 body {
     min-height: 100vh;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background-image:url('Flux_Dev_A_retrostyle_pixel_art_scene_of_a_Rock_Paper_and_Scis_2.jpg');
     background-size:cover;
     font-family: 'Montserrat', sans-serif;
     display: flex;
